@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ChipButton</string>
+
+    <string-array name="name">
+        <item>Calculatiuon</item>
+        <item>Chanakya</item>
+        <item>Chemistry</item>
+        <item>Biology</item>
+        <item>Geography</item>
+        <item>Hindi</item>
+        <item>History</item>
+        <item>Notebook</item>
+        <item>Physics</item>
+        <item>Politician</item>
+        <item>sanskrit</item>
+    </string-array>
+</resources>
